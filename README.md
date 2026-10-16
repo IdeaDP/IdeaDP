@@ -20,10 +20,10 @@ University of Moratuwa · Sri Lanka
 
 <!-- SOCIAL LINKS: Replace example.com URLs and the placeholder email with your own links. -->
 <p>
-  <a href="https://example.com/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn — replace placeholder link" /></a>
-  <a href="https://example.com/YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio — replace placeholder link" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email — replace placeholder address" /></a>
-  <a href="https://example.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram — replace placeholder link" /></a>
+  <a href="https://www.linkedin.com/in/dinusha-prageeth-378067286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn — replace placeholder link" /></a>
+  <a href="https://iamdinusha.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio — replace placeholder link" /></a>
+  <a href="mailto:dinusha.prageeth23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email — replace placeholder address" /></a>
+  <a href="https://instagram.com/dinusha.prageeth"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram — replace placeholder link" /></a>
   <a href="https://github.com/IdeaDP"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -47,13 +47,27 @@ I'm an engineering undergraduate who enjoys bringing **hardware and software tog
 ## 🛠️ My toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,java,arduino,git,html,css,js&amp;theme=dark&amp;perline=9" alt="Python, PyTorch, OpenCV, Java, Arduino, Git, HTML, CSS, and JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,java,git,html,css,js,vscode&amp;theme=dark&amp;perline=9" alt="Python, PyTorch, OpenCV, Java, Git, HTML, CSS, JavaScript, and Visual Studio Code" />
 </p>
+
+<!-- Additional tools use manufacturer or product logos, since these are not all available in Skill Icons. -->
+<table align="center">
+<tr>
+  <td align="center" width="100"><img src="https://cdn.simpleicons.org/stmicroelectronics/00A9E0" width="42" height="42" alt="STMicroelectronics logo" /><br><strong>STM32</strong></td>
+  <td align="center" width="100"><img src="https://cdn.simpleicons.org/espressif/E7352C" width="42" height="42" alt="Espressif logo" /><br><strong>ESP32</strong></td>
+  <td align="center" width="100"><img src="https://www.google.com/s2/favicons?domain=microchip.com&amp;sz=128" width="42" height="42" alt="Microchip logo" /><br><strong>PIC</strong></td>
+  <td align="center" width="100"><img src="https://cdn.simpleicons.org/intel/0071C5" width="42" height="42" alt="Intel logo" /><br><strong>Intel Quartus Prime</strong></td>
+  <td align="center" width="100"><img src="https://cdn.simpleicons.org/platformio/F5822A" width="42" height="42" alt="PlatformIO logo" /><br><strong>PlatformIO</strong></td>
+  <td align="center" width="100"><img src="https://www.google.com/s2/favicons?domain=altium.com&amp;sz=128" width="42" height="42" alt="Altium logo" /><br><strong>Altium Designer</strong></td>
+  <td align="center" width="100"><img src="https://www.google.com/s2/favicons?domain=solidworks.com&amp;sz=128" width="42" height="42" alt="SOLIDWORKS logo" /><br><strong>SOLIDWORKS</strong></td>
+</tr>
+</table>
 
 | Area | Technologies & experience |
 | :--- | :--- |
 | **Computer vision & AI** | Python · PyTorch · OpenCV · Jupyter · CNNs · Transfer learning |
-| **Digital & embedded systems** | Verilog · FPGA · UART · Testbenches · Arduino · PIC microcontrollers |
+| **Digital & embedded systems** | Verilog · FPGA · Intel Quartus Prime · UART · Testbenches · STM32 · ESP32 · PIC microcontrollers |
+| **Development tools** | Visual Studio Code · PlatformIO · Git & GitHub |
 | **Electronics & robotics** | Altium Designer · PCB design · Analog circuits · Sensor integration · Robot mechanisms |
 | **Circuit simulation** | Multisim · LTspice · Proteus Design Suite |
 | **Mechanical design** | SolidWorks · Enclosure design |
